@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<tittle>Petite Pousse V.2</tittle>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+
+		<div id="page1">
+
+		<h1>Bienvenue sur la page de Petite Pousse V.2 !</h1>
+
+		<p>Bonjour et bienvenue sur le site de Petite pousse pour le projet noël ! <br>
+		   Tout d'abord, lisez bien attentivement ce qui va suivre puis vous pourrez vous inscrire et donner vos consentements ! <br>
+		   <a href="Page2.html">Page suivante</a>
+		</p>
+
+		<img src="D:\documents\Serveur discord\logo\Logo petite pousse V.2.png">
+
+	</body>
+</html>

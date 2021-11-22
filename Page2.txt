@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<tittle>Petite Pousse V.2</tittle>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<div id="page1">
+			<a href="Page1.html"><p>Retour à la page précédente</p></a>
+		</div>
+	</body>
+</html>
