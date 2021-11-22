@@ -1,0 +1,23 @@
+h1
+{
+	color: seagreen;
+}
+
+body
+{
+	background-color: lightgray;
+}
+
+#page1
+{
+	width:  800px;
+	margin: 0 auto;
+	background-color: lightgray;
+	text-align: center;
+	align-content: center;
+}
+
+ul li
+{
+	list-style-type:  none;     /change l'aspect des points pour les listes/
+}
